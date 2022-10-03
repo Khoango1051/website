@@ -1,0 +1,147 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:grey;
+    line-height:2;
+    background-color: #EEEEEE;
+}
+.navbar{
+  margin: 20px 30px;
+}
+.navbar-brand{
+  font-size: 1.5rem;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.title{
+  margin: 5% 7%;
+}
+
+.profile-image{
+  width:500px;
+  height:400px;
+  border-radius: 50%;
+}
+
+h1{
+    padding-top: 50px;
+    font-size: 80px;
+    margin: 0 auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color:#F1D00A;
+}
+.h2-home{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color:black;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+hr{
+    width: 90%;
+    border-top: 2px solid #F1D00A;
+    margin: 100px auto 0px;
+
+}
+
+.hr-home{
+  margin: 150px auto 0;
+}
+a{
+    color: #66BFBF;
+}
+
+}
+.yes{
+    margin-bottom: 50px;
+}
+
+.contactmebutton{
+  text-decoration:none;
+}
+/*why the padding of contact me in not in the div. Why when I set margin-top to btn it is not working but wile I set margin-bottom to p above it works*/
+
+
+.footer-link{
+    margin: 0 50px 0px 50px;
+    position:relative;
+    top:40px;
+    text-decoration: none;
+    color: black;
+}
+.footer-link:hover {
+    color: #F1D00A;
+    text-decoration: none;
+}
+
+i{
+font-size:20px;
+padding: 10px 15px;
+}
+
+  .Copyright{
+    color: #F1D00A;
+    margin-top: 50px;
+    font-size:16px;
+
+  }
+
+
+  /* resume */
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color:black;
+  text-align: left;
+}
+.khoa-profile{
+  width: 60%;
+  margin: 100px auto 50px;
+}
+.hello{
+  text-align: center;
+}
+ #education, #experience, #skills, #achievements{
+  margin: 5% 7%;
+}
+
+
+.job-description{
+  text-align: left;
+  padding-left:0.9px;
+}
+.achievement-points{
+  margin-left:70px;
+}
+
+/* project */
+.project-1, .project-2, .project-3, .project-4{
+margin: 15% 7%;
+height: 400px;
+}
+
+.unilever-project, .instagram-pic, .cork-airport-project,.instagram-page-cooking {
+  width: 60%;
+  height: 330px;
+}
+.text{
+  text-align: left;
+  margin-top:10px;
+}
+
+.contactme-h2{
+  text-align: center;
+}
+.contactme-footer{
+  margin-bottom: 10px;
+}
